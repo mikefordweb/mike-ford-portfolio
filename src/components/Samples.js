@@ -27,10 +27,10 @@ class Samples extends React.Component {
         <section className="section-right">
             <div className="section-title">Portfolio</div>
             <ul className="top-links">
-                <li><a href="#"><i class="fas fa-file-pdf"></i></a></li>
-                <li><a href="#"><i class="fas fa-git"></i></a></li>
-                <li><a href="#"><i class="fas fa-linkedin"></i></a></li>
-                <li><a href="#"><i class="fas fa-envelope"></i></a></li>
+                <li><a href="#"><i className="fas fa-file-pdf"></i></a></li>
+                <li><a href="#"><i className="fas fa-git"></i></a></li>
+                <li><a href="#"><i className="fas fa-linkedin"></i></a></li>
+                <li><a href="#"><i className="fas fa-envelope"></i></a></li>
             </ul>
             <div className="simple-slider-wrapper">
               <SimpleSlider currentHover={this.props.currentHover} currentClient={this.props.currentClient} webSamples={this.props.portfolio.webSamples} hoverClient={this.props.hoverClient} clickClient={this.props.clickClient} />
