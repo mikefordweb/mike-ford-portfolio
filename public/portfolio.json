@@ -33,14 +33,9 @@
 	"webSamples": [
 		{
 			"companyName": "cox",
-			"companyDescription": "Location-based Social Media Tracker",
-			"sampleDescription": "Used Javascript, HTML5, CSS3 and Git/Github to build out various dynamic web pages and sites.",
-			"links": [
-				{
-					"linkTitle": "Cox",
-					"linkURL": "http://www.cox.com"
-				}
-			],
+			"companyDescription": "Cox Communications - Leading media services provider",
+			"sampleDescription": "Built Cox’s Homelife Advisor site from ground up based on Photoshop mockups. Designed and coded responsive functionality using best practices and CSS.",
+			"link": "https://www.cox.com/residential/homelife/homelife-advisor.html",
 			"skills": [
 				"Javascript",
 				"jQuery",
@@ -50,38 +45,32 @@
 				"CSS3",
 				"Responsive",
 				"Mobile Development",
-				"Photoshop"
+				"Photoshop",
+				"Responsive Design"
 			]
 		},
 		{
 			"companyName": "geofeedia",
 			"companyDescription": "Location-based Social Media Tracker",
-			"sampleDescription": "Used Git/Github, Gulp, Visual Studio, AngularJS, Javascript, HTML5, CSS3, SASS to build out Geofeedia web app features, fix bugs and improve functionality while working closely with 12-person dev team.",
-			"links": [
-				{
-					"linkTitle": "Geofeedia",
-					"linkURL": "http://www.geofeedia.com"
-				}
-			],
+			"sampleDescription": "Bridged gap between graphic design and technical implementation by taking an active role in defining how app works. Guided UI/UX designs and requirements from the analysis/discovery phase through production to release, with input from product, marketing and VPs.",
+			"link": "",
 			"skills": [
 				"Javascript",
 				"jQuery",
 				"JS MVC",
 				"Git",
 				"HTML5",
-				"CSS3"
+				"CSS3",
+				"REST API",
+				"Responsive Design",
+				"Photoshop"
 			]
 		},
 		{
 			"companyName": "aclara",
 			"companyDescription": "Remote Electrical Meter Management App",
 			"sampleDescription": "Built a wide range of web application features for Aclara Technologies' remote electrical meter management application via HTML5, CSS3, Javascript, Knockout.js, jQuery, Bootstrap, .Net/C# and SQL Studio",
-			"links": [
-				{
-					"linkTitle": "Aclara",
-					"linkURL": ""
-				}
-			],
+			"link": "",
 			"skills": [
 				"jQuery",
 				"HTML5",
@@ -101,12 +90,7 @@
 			"companyName": "zebra",
 			"companyDescription": "Zatar IoT (Internet of Things) Platform",
 			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
-			"links": [
-				{
-					"linkTitle": "Zebra",
-					"linkURL": ""
-				}
-			],
+			"link": "",
 			"skills": [
 				"jQuery",
 				"HTML5",
@@ -122,64 +106,37 @@
 			"companyName": "united",
 			"companyDescription": "United",
 			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
-			"links": [
-				{
-					"linkTitle": "United",
-					"linkURL": ""
-				}
-			],
+			"link": "",
 			"skills": [
 				"jQuery",
 				"HTML5",
 				"CSS3",
 				"Javascript",
 				"Photoshop",
-				"Responsive",
-				"BackboneJS",
-				"CoffeeScript",
-				"MySQL",
-				"Visual Studio",
-				"Mobile Development",
-				"PHP",
-				".Net/C#"
+				"Responsive Design"
 			]
 		},
 		{
 			"companyName": "phs",
 			"companyDescription": "PHS",
 			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
-			"links": [
-				{
-					"linkTitle": "PHS",
-					"linkURL": ""
-				}
-			],
+			"link": "",
 			"skills": [
 				"jQuery",
 				"HTML5",
 				"CSS3",
 				"Javascript",
 				"Photoshop",
-				"Responsive",
-				"BackboneJS",
-				"CoffeeScript",
-				"HandlebarsJS",
-				"ExpressJS",
-				"REST API",
-				"React",
-				"Redux"
+				".Net/C#",
+				"Visual Studio",
+				"SQL Studio"
 			]
 		},
 		{
 			"companyName": "options",
 			"companyDescription": "OptionsXpress",
 			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
-			"links": [
-				{
-					"linkTitle": "Options",
-					"linkURL": ""
-				}
-			],
+			"link": "",
 			"skills": [
 				"jQuery",
 				"HTML5",
@@ -197,12 +154,7 @@
 			"companyName": "enbrec",
 			"companyDescription": "Enbrec",
 			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
-			"links": [
-				{
-					"linkTitle": "Enbrec",
-					"linkURL": ""
-				}
-			],
+			"link": "",
 			"skills": [
 				"jQuery",
 				"HTML5",

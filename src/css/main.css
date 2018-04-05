@@ -429,6 +429,11 @@ html, body {
     margin-left: 32px;
 }
 
+.top-links > li > a {
+    font-size: 30px;
+    color: #a7a8a8;
+}
+
 .section-title {
     margin-top: 116px;
     font-weight: 500;
@@ -575,4 +580,64 @@ html, body {
     -ms-transform: translateY(-50%) translateX(-50%);
     transform: translateY(-50%) translateX(-50%);
     text-align: center;
+}
+
+.content-link {
+    word-wrap: break-word;
+    position: relative;
+    top: 14px;
+}
+
+@media only screen and (max-width: 1311px) {
+    .carousel-screencap {
+        width: 300px;
+    }
+
+    .carousel-item {
+        width: 600px;
+    }
+
+    .section-right {
+        width: 700px;
+    }
+
+    .slick-list {
+        width: 601px;
+    }
+
+    .slick-next {
+        right: 153px;
+    }
+
+    .carousel-content {
+        width: 622px;
+    }
+}
+
+@media only screen and (max-width: 1131px) {
+    .carousel-info {
+        display: block;
+    }
+
+    .carousel-content {
+        width: 400px;
+        height: 532px;
+    }
+
+    .carousel-item {
+        width: 400px;
+    }
+
+   .section-right {
+        width: 480px;
+        height: 109%;
+    }
+    
+    .slick-list {
+        width: 422px;
+    }
+
+    .slick-next {
+        right: 371px;
+    }   
 }

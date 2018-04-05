@@ -14,7 +14,8 @@ class Skillset extends React.Component {
     return (
         <section className="section-left">
             <header>
-                
+                <div className="header-full-name">Mike Ford</div>
+                <div className="header-job-title">Web Developer</div>
             </header>
             <div className="skillset-title">Skill Set</div>
             <div className="skillset"><div className="skillset-fix">Javascript</div>

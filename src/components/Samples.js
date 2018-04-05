@@ -16,6 +16,7 @@ class Samples extends React.Component {
             <div className="carousel-info">
                 <div className="carousel-title">{`${this.props.portfolio.webSamples[key].companyDescription}`}</div>
                 <div className="carousel-description">{`${this.props.portfolio.webSamples[key].sampleDescription}`}</div>
+                <a href={`${this.props.portfolio.webSamples[key].link}`} className="content-link">{`${this.props.portfolio.webSamples[key].link}`}</a>
             </div>
         </div>
       )
@@ -27,10 +28,10 @@ class Samples extends React.Component {
         <section className="section-right">
             <div className="section-title">Portfolio</div>
             <ul className="top-links">
-                <li><a href="#"><i className="fas fa-file-pdf"></i></a></li>
-                <li><a href="#"><i className="fas fa-git"></i></a></li>
-                <li><a href="#"><i className="fas fa-linkedin"></i></a></li>
-                <li><a href="#"><i className="fas fa-envelope"></i></a></li>
+                <li><a href="Mike_Ford_Resume_0418.pdf" target="_blank"><i className="fas fa-file-pdf"></i></a></li>
+                <li><a href="https://github.com/mikefordweb" target="_blank"><i className="fab fa-git-square"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/mike-ford-5a14817/" target="_blank"><i className="fab fa-linkedin"></i></a></li>
+                <li><a href="mailto:mike@mikefordweb.com"><i className="fas fa-envelope"></i></a></li>
             </ul>
             <div className="simple-slider-wrapper">
               <SimpleSlider currentHover={this.props.currentHover} currentClient={this.props.currentClient} webSamples={this.props.portfolio.webSamples} hoverClient={this.props.hoverClient} clickClient={this.props.clickClient} />
