@@ -9,8 +9,6 @@ class SimpleSlider extends React.Component {
   }
 
   renderCarouselLink(key) {
-    console.log("1:this.props.currentHover: " + this.props.currentHover);
-    console.log("1:this.props.currentClient: " + this.props.currentClient);
     if ((this.props.webSamples[key].companyName === this.props.currentClient) || (this.props.currentHover === this.props.webSamples[key].companyName)) {
       return (
           <div className="slick-item" onClick={this.clientClickHandler.bind(this)} onMouseEnter={this.onMouseEnterHandler.bind(this)} onMouseLeave={this.onMouseLeaveHandler.bind(this)} 

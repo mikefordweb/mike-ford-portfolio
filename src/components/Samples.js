@@ -16,7 +16,6 @@ class Samples extends React.Component {
             <div className="carousel-info">
                 <div className="carousel-title">{`${this.props.portfolio.webSamples[key].companyDescription}`}</div>
                 <div className="carousel-description">{`${this.props.portfolio.webSamples[key].sampleDescription}`}</div>
-                <a href={`${this.props.portfolio.webSamples[key].link}`} className="content-link">{`${this.props.portfolio.webSamples[key].link}`}</a>
             </div>
         </div>
       )

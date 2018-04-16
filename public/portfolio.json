@@ -50,6 +50,20 @@
 			]
 		},
 		{
+			"companyName": "boeing",
+			"companyDescription": "Major US airline manufacturer",
+			"sampleDescription": "Built web banner ads using HTML5, CSS3, Javascript and Greensock",
+			"link": "",
+			"skills": [
+				"Javascript",
+				"Git",
+				"HTML5",
+				"CSS3",
+				"Responsive Design",
+				"Photoshop"
+			]
+		},
+		{
 			"companyName": "geofeedia",
 			"companyDescription": "Location-based Social Media Tracker",
 			"sampleDescription": "Bridged gap between graphic design and technical implementation by taking an active role in defining how app works. Guided UI/UX designs and requirements from the analysis/discovery phase through production to release, with input from product, marketing and VPs.",
@@ -105,7 +119,7 @@
 		{
 			"companyName": "united",
 			"companyDescription": "United",
-			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
+			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a United Airlines’ Gate Agent Management application, in an Agile development environment.",
 			"link": "",
 			"skills": [
 				"jQuery",
@@ -119,7 +133,7 @@
 		{
 			"companyName": "phs",
 			"companyDescription": "PHS",
-			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
+			"sampleDescription": "Built full eCommerce web site for Pediatric Home Services using nopCommerce, a .Net eCommerce platform. The site included a large number of custom feature implementations to meet the needs of business-driven edge cases.",
 			"link": "",
 			"skills": [
 				"jQuery",
@@ -135,7 +149,7 @@
 		{
 			"companyName": "options",
 			"companyDescription": "OptionsXpress",
-			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
+			"sampleDescription": "Developed web pages using HTML5, CSS, jQuery and Javascript based on Photoshop comps as part of a complex, deadline-driven development environment of 25+ developers with extensive QA and multi-faceted release schedules.",
 			"link": "",
 			"skills": [
 				"jQuery",
@@ -153,7 +167,7 @@
 		{
 			"companyName": "enbrec",
 			"companyDescription": "Enbrec",
-			"sampleDescription": "Collaborated with consultants, stakeholders and designers to build a UI for a ground-breaking Internet of Things (IoT) Zatar platform in an Agile development environment.",
+			"sampleDescription": "Served as firm’s tech lead, evaluating technologies to meet project requirements for clients including Dow Chemical, Aclara Technologies and Pediatric Home Services. Collaborated closely with developers, QA and clients to build and manage robust web applications.",
 			"link": "",
 			"skills": [
 				"jQuery",

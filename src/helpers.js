@@ -4,6 +4,7 @@
 
 export const clientSkills = {
 	"cox": ["Javascript","jQuery","JS MVC","Git","HTML5","CSS3","Responsive","Mobile Development","Photoshop"],
+	"boeing": ["Javascript","jQuery","JS MVC","Git","HTML5","CSS3"],
 	"geofeedia": ["Javascript","jQuery","JS MVC","Git","HTML5","CSS3"],
 	"aclara": ["HTML5","CSS3","Javascript","jQuery","Photoshop","Responsive","Mobile Development",".Net/C#","Visual Studio","Bootstrap","SQL Studio","KnockoutJS"],
 	"zebra": ["HTML5","CSS3","Javascript","jQuery","Photoshop","Responsive","BackboneJS","CoffeeScript"],

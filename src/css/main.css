@@ -295,6 +295,7 @@ textarea {
 html, body {
     font-family: 'Oswald', sans-serif;
     height: 100%;
+    margin: 0;
 }
 
 #root {
@@ -310,7 +311,7 @@ html, body {
     width: 380px;
     height: 100%;
     min-height: 100%;
-    border-right: 20px solid #fff;
+    border-right: 10px solid #fff;
     display: inline-block;
     vertical-align: top;
     padding-bottom: 60px;
@@ -318,8 +319,8 @@ html, body {
 
 .header-full-name {
     font-weight: 500;
-    font-size: 66px;
-    line-height: 56px;
+    font-size: 55px;
+    line-height: 50px;
     text-transform: uppercase;
     color: #006a96;
     margin-left: 50px;
@@ -328,8 +329,8 @@ html, body {
 
 .header-job-title {
     font-weight: 500;
-    font-size: 44px;
-    line-height: 44px;
+    font-size: 36px;
+    line-height: 36px;
     margin-top: 8px;
     text-transform: uppercase;
     color: #fff;
@@ -339,7 +340,7 @@ html, body {
 .skillset-title {
     font-weight: 500;
     color: #006a96;
-    font-size: 38px;
+    font-size: 36px;
     line-height: 42px;
     text-transform: uppercase;
     margin-left: 50px;
@@ -350,7 +351,7 @@ html, body {
     position: relative;
     margin-left: 50px;
     width: 302px;
-    margin-top: 16px;
+    margin-top: 6px;
 }
 
 .skillset-fix {
@@ -386,7 +387,7 @@ html, body {
     line-height: 36px;
     padding: 0 8px;
     color: #595a5b;
-    font-size: 23px;
+    font-size: 20px;
     margin-right: 0;
     margin-top: 0;
     vertical-align: middle;
@@ -435,10 +436,10 @@ html, body {
 }
 
 .section-title {
-    margin-top: 116px;
+    margin-top: 101px;
     font-weight: 500;
     color: #006a96;
-    font-size: 38px;
+    font-size: 36px;
     line-height: 42px;
     text-transform: uppercase;
     margin-left: 38px;
@@ -580,6 +581,12 @@ html, body {
     -ms-transform: translateY(-50%) translateX(-50%);
     transform: translateY(-50%) translateX(-50%);
     text-align: center;
+}
+
+.slick-next:before, 
+.slick-prev:before {
+    color: #006a96;
+    opacity: 1; 
 }
 
 .content-link {
